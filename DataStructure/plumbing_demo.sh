@@ -208,4 +208,3 @@ echo "✔ unreachable commits (if any) still exist internally"
 
 echo ""
 echo "🏁 Demo Complete 🎉"
-```
