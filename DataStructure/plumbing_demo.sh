@@ -22,6 +22,10 @@ rm -rf git-plumbing-demo
 mkdir git-plumbing-demo
 cd git-plumbing-demo
 
+git init -q
+git config user.name "Demo"
+git config user.email "demo@example.com"
+
 echo ""
 echo "========================================"
 echo "📂 STEP 1: Create Nested Structure"
